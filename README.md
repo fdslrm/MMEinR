@@ -3,7 +3,7 @@ R version of Witkovsky's Matlab implementation of iterative solving of Henderson
 
 For the R version of an algorithm see the MMEinR.R file (function) available at
 
-- https://github.com/gajdosandrej/MMEinR .
+- https://github.com/fdslrm/MMEinR .
 
 For the current status of the MATLAB algorithm (not an identical clone) see the mixed.m file (function) available at
 
